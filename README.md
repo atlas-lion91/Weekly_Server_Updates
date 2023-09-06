@@ -1,4 +1,4 @@
-# Bash Script for Weekly Server Update and Package Upgrade
+# Bash Script for Weekly Server Updates and Package Upgrade
 # Author: Khalil Elkharbibi
 # Date: 2023-08-30
 
