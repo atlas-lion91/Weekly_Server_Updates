@@ -19,7 +19,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 # Get the count of upgradable packages
 upgrade_count=$(apt list --upgradable 2>/dev/null | wc -l)
 
-# Create a filename with the current date in the format updateMM.DD.YY.txt
+# Create a filename with the current date in the format update
 weekly_update.sh="update$(date +'%m.%d.%y').txt"
 
 # Create a new file and write the upgrade count information
