@@ -1,4 +1,4 @@
-# Bash Script for Weekly Server Updates and Package Upgrade
+# Bash Script for Weekly Server Updates and Package Upgrades
 
 
 ## Author: Khalil Elkharbibi
