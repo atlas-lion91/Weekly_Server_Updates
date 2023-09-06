@@ -1,11 +1,11 @@
-#!/bin/bash
-
 # Bash Script for Weekly Server Update and Package Upgrade
 # Author: Khalil Elkharbibi
 # Date: 2023-08-30
 
 # Purpose of the cron job:
 # This script will be executed automatically every Friday at 11 PM to update the server and log the output.
+
+#!/bin/bash
 
 **Schedule script to run weekly on Fridays at 11pm**
 `$ 0 23 * * 5 /usr/local/bin/weekly_update.sh`
