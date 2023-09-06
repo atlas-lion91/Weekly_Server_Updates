@@ -9,7 +9,7 @@
 
 #!/bin/bash
 
-**Schedule script to run weekly on Fridays at 11pm**
+## Schedule script to run weekly on Fridays at 11pm
 `$ 0 23 * * 5 /usr/local/bin/weekly_update.sh`
 
 ## Display a message indicating the script is starting
